@@ -13,9 +13,13 @@ Error message handling tests
 **🚀 Technologies Used**
 
 Selenium WebDriver: For browser automation
+
 Java
+
 Test Framework: Page Object Model
+
 Browser: Chrome/Firefox/Edge
+
 Environment: Swag Labs (saucedemo.com)
 
 
